@@ -1,0 +1,6 @@
+exports.appSettings = {
+  dev: {
+  },
+  production: {
+  }
+};
